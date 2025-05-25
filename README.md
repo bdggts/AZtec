@@ -1,2 +1,3 @@
-# AZtec
-Here is full guide how to deploy your Sequncer Node
+# Aztec Sequencer Guide 🔥
+# 🖥️ Device/System Requirements
+![Uploading 1000531868.png…]()
